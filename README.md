@@ -5,4 +5,4 @@ This project created to test how to print columns in an aligned way automaticall
 
 Usage : <program> <file_1> <file_2> <file_3>
   
-Tested on : +Windows
+`Tested on : Windows
